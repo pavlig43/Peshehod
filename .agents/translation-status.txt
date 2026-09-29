@@ -1,10 +1,13 @@
-ПЕРЕВЕДЕНО: 216 из 234  Переведённые файлы:
+ПЕРЕВЕДЕНО: 234 из 234
+
+Переведённые файлы:
 android\performance\r8-analyzer\references\android\topic\performance\app-optimization\enable-app-optimization.md
 android\performance\r8-analyzer\references\CONFIGURATION.md
 android\performance\r8-analyzer\references\KEEP-RULES-IMPACT-HIERARCHY.md
 android\performance\r8-analyzer\references\REDUNDANT-RULES.md
 android\performance\r8-analyzer\references\REFLECTION-GUIDE.md
 android\performance\r8-analyzer\SKILL.md
+android\play\play-billing-library-version-upgrade\references\android\google\play\billing\release-notes.md
 android\play\play-billing-library-version-upgrade\references\migration-logic.md
 android\play\play-billing-library-version-upgrade\references\version-checklist.md
 android\play\play-billing-library-version-upgrade\SKILL.md
@@ -18,11 +21,13 @@ aso\app-launch.mdx
 aso\app-launch\SKILL.md
 aso\app-marketing-context\SKILL.md
 aso\app-preview-video\SKILL.md
+aso\app-rejection-recovery\SKILL.md
 aso\app-store-featured\SKILL.md
 aso\apple-search-ads\SKILL.md
 aso\asc-metrics\SKILL.md
 aso\aso-audit.mdx
 aso\aso-audit\SKILL.md
+aso\aso-router\SKILL.md
 aso\attribution-setup\SKILL.md
 aso\category-positioning\SKILL.md
 aso\competitor-analysis.mdx
@@ -50,9 +55,11 @@ aso\retention-optimization\SKILL.md
 aso\review-management\SKILL.md
 aso\screenshot-optimization.mdx
 aso\screenshot-optimization\SKILL.md
+aso\seasonal-android.mdx
 aso\seasonal-aso\SKILL.md
 aso\subscription-lifecycle\SKILL.md
 aso\ua-campaign\SKILL.md
+aso\web-to-app-funnel\SKILL.md
 compose-multiplatform\compose-animations\SKILL.md
 compose-multiplatform\compose-focus-navigation\SKILL.md
 compose-multiplatform\compose-modifier-and-layout-style\SKILL.md
@@ -75,6 +82,7 @@ decompose-mvikotlin\decompose-component\SKILL.md
 decompose-mvikotlin\decompose-compose\SKILL.md
 decompose-mvikotlin\decompose-navigation\SKILL.md
 decompose-mvikotlin\mvikotlin-code\SKILL.md
+design\app-system\README.md
 design\app-system\SKILL.md
 design\better\better-accessibility\agents\openai.yaml
 design\better\better-accessibility\focus-and-keyboard.md
@@ -101,16 +109,19 @@ design\better\better-typography\agents\openai.yaml
 design\better\better-typography\choosing-fonts.md
 design\better\better-typography\css-cheat-sheet.md
 design\better\better-typography\details-and-accessibility.md
+design\better\better-typography\SKILL.md
 design\better\better-typography\spacing-and-sizing.md
 design\better\better-typography\variable-fonts-and-opentype.md
 design\better\better-typography\wrapping-and-punctuation.md
 design\better\better-ui\agents\openai.yaml
+design\better\better-ui\animations.md
 design\better\better-ui\icons.md
 design\better\better-ui\performance.md
 design\better\better-ui\SKILL.md
 design\better\better-ui\surfaces.md
 design\better\better-writing\agents\openai.yaml
 design\better\better-writing\SKILL.md
+design\motion\apple\SKILL.md
 design\motion\improve\AUDIT.md
 design\motion\improve\PLAN-TEMPLATE.md
 design\motion\improve\SKILL.md
@@ -118,6 +129,7 @@ design\motion\opportunities\SKILL.md
 design\motion\review\SKILL.md
 design\motion\review\STANDARDS.md
 design\motion\vocabulary\SKILL.md
+design\polish\emil-kowalski\SKILL.md
 hindsight-docs\references\best-practices.md
 hindsight-docs\references\changelog\index.md
 hindsight-docs\references\changelog\integrations\ag2.md
@@ -166,16 +178,22 @@ hindsight-docs\references\developer\api\bank-templates.md
 hindsight-docs\references\developer\api\documents.md
 hindsight-docs\references\developer\api\main-methods.md
 hindsight-docs\references\developer\api\memories.md
+hindsight-docs\references\developer\api\memory-banks.md
+hindsight-docs\references\developer\api\mental-models.md
 hindsight-docs\references\developer\api\operations.md
 hindsight-docs\references\developer\api\quickstart.md
+hindsight-docs\references\developer\api\recall.md
 hindsight-docs\references\developer\api\reflect.md
+hindsight-docs\references\developer\api\retain.md
 hindsight-docs\references\developer\api\webhooks.md
+hindsight-docs\references\developer\configuration.md
 hindsight-docs\references\developer\development.md
 hindsight-docs\references\developer\extensions.md
 hindsight-docs\references\developer\index.md
 hindsight-docs\references\developer\installation.md
 hindsight-docs\references\developer\mcp-server.md
 hindsight-docs\references\developer\memory-defense\index.md
+hindsight-docs\references\developer\models.md
 hindsight-docs\references\developer\monitoring.md
 hindsight-docs\references\developer\multilingual.md
 hindsight-docs\references\developer\observations.md
@@ -183,9 +201,11 @@ hindsight-docs\references\developer\performance.md
 hindsight-docs\references\developer\rag-vs-hindsight.md
 hindsight-docs\references\developer\reflect.md
 hindsight-docs\references\developer\retain.md
+hindsight-docs\references\developer\retrieval.md
 hindsight-docs\references\developer\services.md
 hindsight-docs\references\developer\storage.md
 hindsight-docs\references\faq.md
+hindsight-docs\references\openapi.json
 hindsight-docs\references\sdks\cli.md
 hindsight-docs\references\sdks\embed.md
 hindsight-docs\references\sdks\go.md
@@ -215,23 +235,3 @@ puzzle-game-creation\references\acceptance.md
 puzzle-game-creation\references\discovery.md
 puzzle-game-creation\references\experience-quality.md
 puzzle-game-creation\SKILL.md
-
-Оставшиеся файлы:
-android\play\play-billing-library-version-upgrade\references\android\google\play\billing\release-notes.md
-aso\app-rejection-recovery\SKILL.md
-aso\aso-router\SKILL.md
-aso\seasonal-android.mdx
-aso\web-to-app-funnel\SKILL.md
-design\app-system\README.md
-design\better\better-typography\SKILL.md
-design\better\better-ui\animations.md
-design\motion\apple\SKILL.md
-design\polish\emil-kowalski\SKILL.md
-hindsight-docs\references\developer\api\memory-banks.md
-hindsight-docs\references\developer\api\mental-models.md
-hindsight-docs\references\developer\api\recall.md
-hindsight-docs\references\developer\api\retain.md
-hindsight-docs\references\developer\configuration.md
-hindsight-docs\references\developer\models.md
-hindsight-docs\references\developer\retrieval.md
-hindsight-docs\references\openapi.json
