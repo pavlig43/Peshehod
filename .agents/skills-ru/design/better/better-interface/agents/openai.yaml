@@ -1,0 +1,5 @@
+interface:
+  display_name: "Качество интерфейса"
+  short_description: "Разбор интерфейса с точки зрения разных дисциплин"
+policy:
+  allow_implicit_invocation: false

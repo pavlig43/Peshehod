@@ -1,0 +1,3 @@
+interface:
+  display_name: "Тексты в интерфейсе"
+  short_description: "Тексты для UX, кнопок, подсказок и мелких элементов"

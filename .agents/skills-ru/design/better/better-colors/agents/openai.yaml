@@ -1,0 +1,3 @@
+interface:
+  display_name: "Цвета в интерфейсе"
+  short_description: "Палитры OKLCH, контраст и цветовые темы"

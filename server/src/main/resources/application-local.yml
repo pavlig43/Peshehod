@@ -1,0 +1,5 @@
+spring:
+  datasource:
+    url: ${DB_URL:jdbc:postgresql://localhost:5432/peshehod}
+    username: ${DB_USER:peshehod}
+    password: ${DB_PASSWORD:peshehod}

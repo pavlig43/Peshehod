@@ -1,0 +1,4 @@
+interface:
+  display_name: "Metro DI"
+  short_description: "Настройка Metro, KMP и внедрение зависимостей между модулями"
+  default_prompt: "Примени $metro-di, чтобы верно настроить или изменить внедрение зависимостей Metro в этом проекте Kotlin."

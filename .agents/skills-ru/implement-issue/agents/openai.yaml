@@ -1,0 +1,6 @@
+interface:
+  display_name: "Реализовать задачу"
+  short_description: "Изучить и реализовать задачу из GitHub или GitLab."
+  default_prompt: "Используй $implement-issue, чтобы изучить и реализовать задачу <issue-reference>."
+policy:
+  allow_implicit_invocation: true

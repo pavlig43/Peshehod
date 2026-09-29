@@ -1,0 +1,3 @@
+interface:
+  display_name: "Доступный интерфейс"
+  short_description: "Фокус, клавиатура, ARIA, формы и программы чтения с экрана"

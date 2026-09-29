@@ -1,0 +1,23 @@
+spring:
+  application:
+    name: peshehod-server
+  profiles:
+    default: local
+  jpa:
+    hibernate:
+      ddl-auto: validate
+    properties:
+      hibernate:
+        default_schema: peshehod
+  flyway:
+    enabled: true
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: health,info
+
+peshehod:
+  photo:
+    directory: ${PESHEHOD_PHOTO_DIR:./data/photos}
